@@ -1083,11 +1083,13 @@ ul {
     .hero {
         min-height: 60vh;
         height: auto;
-        background: url('public/homepage/Picsart_26-04-21_17-19-17-016.png') no-repeat center right/cover;
+        background: url('public/homepage/homepage.jpeg') no-repeat center 10%/cover;
+        align-items: flex-end;
     }
 
     .hero-content {
-        padding-top: 60px;
+        padding-top: 100px;
+        padding-bottom: 30px;
     }
 
     .hero-content h1 {
